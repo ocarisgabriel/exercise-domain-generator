@@ -6,7 +6,7 @@ Finding a domain name is hard, so why not automate it? :)
 
 ## 🌱 How to start this project
 
-Do not clone this repository because we are going to be using a different template.
+Do not clone this repository because we are going to be using a different template 🚨 .
 
 We recommend opening the `vanillajs boilerplate` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
 
